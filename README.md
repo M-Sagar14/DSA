@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/M-Sagar14/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/M-Sagar14/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/M-Sagar14/DSA/tree/master/0055-jump-game) |
 ## Manacher
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/M-Sagar14/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/M-Sagar14/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/M-Sagar14/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/M-Sagar14/DSA/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/M-Sagar14/DSA/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/M-Sagar14/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
