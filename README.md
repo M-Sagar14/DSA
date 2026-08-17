@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/M-Sagar14/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/M-Sagar14/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/M-Sagar14/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/M-Sagar14/DSA/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/M-Sagar14/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/M-Sagar14/DSA/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/M-Sagar14/DSA/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/M-Sagar14/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
