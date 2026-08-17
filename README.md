@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/M-Sagar14/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/M-Sagar14/DSA/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/M-Sagar14/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/M-Sagar14/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/M-Sagar14/DSA/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/M-Sagar14/DSA/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/M-Sagar14/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
