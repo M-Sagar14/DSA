@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/M-Sagar14/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/M-Sagar14/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/M-Sagar14/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/M-Sagar14/DSA/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/M-Sagar14/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/M-Sagar14/DSA/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/M-Sagar14/DSA/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/M-Sagar14/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
