@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/M-Sagar14/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/M-Sagar14/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/M-Sagar14/DSA/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/M-Sagar14/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-Sagar14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/M-Sagar14/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/M-Sagar14/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/M-Sagar14/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-Sagar14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
