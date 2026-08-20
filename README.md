@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/M-Sagar14/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/M-Sagar14/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/M-Sagar14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -68,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/M-Sagar14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M-Sagar14/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/M-Sagar14/DSA/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M-Sagar14/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -118,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/M-Sagar14/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
