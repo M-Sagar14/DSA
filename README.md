@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/M-Sagar14/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/M-Sagar14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/M-Sagar14/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/M-Sagar14/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/M-Sagar14/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M-Sagar14/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
