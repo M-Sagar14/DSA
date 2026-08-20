@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/M-Sagar14/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/M-Sagar14/DSA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/M-Sagar14/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/M-Sagar14/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/M-Sagar14/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/M-Sagar14/DSA/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/M-Sagar14/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
