@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/M-Sagar14/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/M-Sagar14/DSA/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/M-Sagar14/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/M-Sagar14/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/M-Sagar14/DSA/tree/master/0055-jump-game) |
+| [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
 ## Manacher
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M-Sagar14/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/M-Sagar14/DSA/tree/master/0258-add-digits) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
