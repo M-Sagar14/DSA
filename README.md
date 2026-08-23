@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/M-Sagar14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/M-Sagar14/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/M-Sagar14/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/M-Sagar14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/M-Sagar14/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/M-Sagar14/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M-Sagar14/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/M-Sagar14/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
