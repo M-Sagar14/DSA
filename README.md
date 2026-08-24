@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M-Sagar14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-Sagar14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/M-Sagar14/DSA/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/M-Sagar14/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M-Sagar14/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/M-Sagar14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/M-Sagar14/DSA/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M-Sagar14/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/M-Sagar14/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/M-Sagar14/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/M-Sagar14/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/M-Sagar14/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/M-Sagar14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/M-Sagar14/DSA/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
@@ -159,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/M-Sagar14/DSA/tree/master/0219-contains-duplicate-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/M-Sagar14/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
