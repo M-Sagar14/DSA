@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/M-Sagar14/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/M-Sagar14/DSA/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/M-Sagar14/DSA/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/M-Sagar14/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/M-Sagar14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/M-Sagar14/DSA/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/M-Sagar14/DSA/tree/master/0371-sum-of-two-integers) |
 ## Number Theory
 |  |
 | ------- |
