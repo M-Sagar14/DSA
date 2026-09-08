@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/M-Sagar14/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/M-Sagar14/DSA/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/M-Sagar14/DSA/tree/master/0877-stone-game) |
+| [3870-count-commas-in-range](https://github.com/M-Sagar14/DSA/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
